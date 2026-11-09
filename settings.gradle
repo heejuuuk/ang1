@@ -1,0 +1,2 @@
+rootProject.name = "AldotWidget"
+include ':app'
